@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>images/icon1.png</file>
+        <file>images/anchor.png</file>
+        <file>images/anchor_white.png</file>
+        <file>images/eraser.png</file>
+        <file>images/pen.png</file>
+        <file>images/pen_white.png</file>
+        <file>images/eraser_white.png</file>
+        <file>images/car.png</file>
+        <file>images/bofang.png</file>
+        <file>images/stop.png</file>
+        <file>images/change.png</file>
+        <file>images/eye.png</file>
+    </qresource>
+</RCC>

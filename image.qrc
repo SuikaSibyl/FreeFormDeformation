@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>images/eraser_white.png</file>
+        <file>images/pen_white.png</file>
+        <file>images/anchor_white.png</file>
+    </qresource>
+</RCC>
